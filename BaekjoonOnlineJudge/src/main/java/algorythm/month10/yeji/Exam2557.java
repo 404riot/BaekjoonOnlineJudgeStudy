@@ -1,4 +1,4 @@
-package algorythm.month10;
+package algorythm.month10.yeji;
 
 public class Exam2557 {
     public static void main(String[] args) {

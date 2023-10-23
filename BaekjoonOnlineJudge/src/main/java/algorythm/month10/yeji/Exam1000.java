@@ -1,4 +1,4 @@
-package algorythm.month10;
+package algorythm.month10.yeji;
 
 import java.util.Scanner;
 
