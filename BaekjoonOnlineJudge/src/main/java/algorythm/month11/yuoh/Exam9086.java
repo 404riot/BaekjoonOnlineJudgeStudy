@@ -17,7 +17,7 @@ public class Exam9086 {
 
         idx = 0;
         while(idx < n) {
-            System.out.println(strArr[idx].charAt(0) + "" + strArr[idx].charAt(strArr.length - 1));
+            System.out.println(strArr[idx].charAt(0) + "" + strArr[idx].charAt(strArr[idx].length() - 1));
             idx++;
         }
     }
